@@ -6,7 +6,7 @@ dpkg-reconfigure --frontend noninteractive tzdata > /dev/null 2>&1
 clear
 echo -e "\E[44;1;37m    INSTALAR RECURSOS CHECKUSER     \E[0m" 
 echo ""
-echo -e "                 \033[1;31mBy @SUKUNA\033[1;36m"
+echo -e "                 \033[1;31mBy @asas_dev\033[1;36m"
 echo ""
 echo -ne "\n\033[1;32mDE UM ENTER PARA \033[1;33mCONTINUAR...\033[1;37m: "; read -r
 clear
@@ -34,7 +34,7 @@ echo -e "        \033[1;33m • \033[1;32mINSTALAÇÃO CONCLUÍDA\033[1;33m • 
 echo ""
 echo -e "\033[1;31m \033[1;33mATIVE O CHECKUSER NA OPÇÃO ( 1 ): \033[1;32m \033[0m"
 echo ""
-echo -e "\033[1;33m MAIS INFORMAÇÕES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@SUKUNA\033[0m"
+echo -e "\033[1;33m MAIS INFORMAÇÕES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@asas_dev\033[0m"
 echo -ne "\033[1;36mDIGITE ENTER PRA RETORNAR \033[1;37m"; read -r
 clear
 echo -e "\033[1;31mRetornando...\033[0m"

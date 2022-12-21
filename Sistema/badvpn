@@ -59,8 +59,8 @@ fun_badvpn() {
                     cd $HOME
 					rm -r -f /bin/badvpn-udpgw
 					rm -r -f /bin/BADVPN-FULL.sh
-                    wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/badvpn-udpgw -o /dev/null
-					wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/BADVPN-FULL.sh -o /dev/null
+                    wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/badvpn-udpgw -o /dev/null
+					wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/BADVPN-FULL.sh -o /dev/null
                     mv -f $HOME/badvpn-udpgw /bin/badvpn-udpgw
 					mv -f $HOME/BADVPN-FULL.sh /bin/BADVPN-FULL.sh
                     chmod 777 /bin/badvpn-udpgw

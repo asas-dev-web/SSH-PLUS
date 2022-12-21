@@ -43,15 +43,15 @@ fun_att () {
 apt install ncurses-utils -y
 mkdir /etc/slowdns
 cd /etc/slowdns
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/dns-server; chmod +x dns-server
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/remove-slow; chmod +x remove-slow
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/slowdns-info; chmod +x slowdns-info
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/slowdns-drop; chmod +x slowdns-drop
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/slowdns-ssh; chmod +x slowdns-ssh
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/slowdns-ssl; chmod +x slowdns-ssl
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/slowdns-socks; chmod +x slowdns-socks
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/slowdns; chmod +x slowdns; cp slowdns /bin/
-wget https://raw.githubusercontent.com/F4K3R171337/SSHPLUS/main/slowdns/stopdns; chmod +x stopdns
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/dns-server; chmod +x dns-server
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/remove-slow; chmod +x remove-slow
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/slowdns-info; chmod +x slowdns-info
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/slowdns-drop; chmod +x slowdns-drop
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/slowdns-ssh; chmod +x slowdns-ssh
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/slowdns-ssl; chmod +x slowdns-ssl
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/slowdns-socks; chmod +x slowdns-socks
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/slowdns; chmod +x slowdns; cp slowdns /bin/
+wget https://raw.githubusercontent.com/asas-dev-web/SSH-PLUS/main/slowdns/stopdns; chmod +x stopdns
 }
 fun_bar 'fun_att'
 echo -e "CONFIGURANDO FIREWALL..."
