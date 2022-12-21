@@ -1,9 +1,9 @@
 #!/bin/bash
 #===================================================
 #	SCRIPT: OTIMIZAR	SSHPLUS MANAGER
-#	DESENVOLVIDO POR:	SUKUNA
-#	CONTATO TELEGRAM:	http://t.me/SUKUNA
-#	CANAL TELEGRAM:	http://t.me/SUKUNA
+#	DESENVOLVIDO POR:	asas_dev
+#	CONTATO TELEGRAM:	http://t.me/asas_dev
+#	CANAL TELEGRAM:	http://t.me/asas_dev
 #===================================================
 fun_bar() {
 	comando[0]="$1"

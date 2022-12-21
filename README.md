@@ -1,5 +1,5 @@
-# SUKUNA PLUS 
-# BY SUKUNA
+# ASAS DEV 
+# BY @asas_dev
 
 
 
